@@ -1,4 +1,4 @@
-# shor_algorithm
+# shors_algorithm
 An implementation of Shor's algorithm for IBM Qiskit. https://learn.qiskit.org/course/ch-algorithms/shors-algorithm
 
 Currently factors $N=15$. 
